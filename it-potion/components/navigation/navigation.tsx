@@ -11,15 +11,15 @@ const Navigation = () => {
     }
 
     return (
-        <nav className={style.navigation}>
-            <ul>
+        <nav>
+            <ul className={style.navigation}>
                 <li>
                     <Link href='/about-us' rel="preload">
                         {navigation.aboutUs}
                     </Link>
                 </li>
                 <li>
-                    <Link href='/our-team' rel="preload">
+                    <Link href='/team' rel="preload">
                         {navigation.ourTeam}
                     </Link>
                 </li>

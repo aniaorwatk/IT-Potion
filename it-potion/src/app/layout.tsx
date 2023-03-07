@@ -1,4 +1,4 @@
-import  MainLayout  from "../../components/main-layout/main-layout";
+import MainLayout from "../../components/main-layout/main-layout";
 import "./globals.css";
 
 export const metadata = {

@@ -1,6 +1,6 @@
-const aboutCompany =()=>{
+const AboutCompany = () => {
     return (
         <div>About Company</div>
     )
 }
-export default aboutCompany
+export default AboutCompany
