@@ -1,0 +1,20 @@
+{
+    "workers": [
+        {
+            "id":"ania",
+            "name": "Ania Orwat-Kaczmarska"
+        },
+        {
+            "id": "justyna",
+            "name": "Justyna Mucha"
+        },
+        {
+            "id": "paulina",
+            "name": "Paulina Targosz"
+        },
+        {
+            "id": "maria",
+            "name": "Maria"
+        }
+    ]
+}
